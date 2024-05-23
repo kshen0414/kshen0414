@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 
 ### Connect with me
 <div id="badges">
-  <a href="[https://www.linkedin.com/in/chang-kok-shen-4b0b50188/]">
+  <a href="https://www.linkedin.com/in/chang-kok-shen-4b0b50188/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[https://medium.com/@kshen0414]">
+  <a href="https://medium.com/@kshen0414">
     <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
-  <a href="[mailto:kokshen3414@gmail.com]">
+  <a href="mailto:kokshen3414@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
